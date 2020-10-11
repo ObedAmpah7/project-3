@@ -1,0 +1,39 @@
+body{
+    background-color: CCC;
+}
+#container{
+    background-color: FFF;
+    padding: 12px;
+    margin: 12px;
+}
+
+#cart-container{
+    width: 100%;
+    background-color: #000;
+    color: #FFF;
+    padding: 12px;
+}
+
+#newsletter-frequency{
+    display: none;
+}
+.item{
+    width: 300px;
+    background-color: greenyellow;
+    padding: 8px;
+    float: left;
+    margin: 5px;
+}
+.item img{
+    width: 100%;
+}
+.item .name{
+    font-size: 50px;
+}
+.item .price{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.item .more-info{
+    display: none;
+}

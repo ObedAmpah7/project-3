@@ -1,0 +1,23 @@
+{
+    "items":[{
+        "id": 1000,
+        "name": "Elmina",
+        "description": "Lemon Beach Resort invests from its profit back to the society. We do support several projects helping less privileged people and kids in Ghana. Your stay at Lemon means, you are contributing as well. Ask us for more details. Will be our pleasure to share with you more.",
+        "price": 499,
+        "moreInfo":"Lemon Beach Resort invests from its profit back to the society."
+    },
+      {
+        "id": 1001,  
+        "name": "Cape Coast",
+        "description": "Lemon Beach Resort invests from its profit back to the society. We do support several projects helping less privileged people and kids in Ghana. Your stay at Lemon means, you are contributing as well. Ask us for more details. Will be our pleasure to share with you more.",
+        "price": 499,
+        "moreInfo":"Lemon Beach Resort invests from its profit back to the society."
+    },
+         {
+        "id": 1002, 
+        "name": "Takoradi",
+        "description": "Lemon Beach Resort invests from its profit back to the society. We do support several projects helping less privileged people and kids in Ghana. Your stay at Lemon means, you are contributing as well. Ask us for more details. Will be our pleasure to share with you more.",
+        "price": 499,
+        "moreInfo":"Lemon Beach Resort invests from its profit back to the society."
+    }  ]
+}
